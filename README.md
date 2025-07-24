@@ -1,4 +1,4 @@
-StockFlow - Aplicação de Gestão de Logística
+StockFlow - Aplicação de Gestão de Logística\n
 Aqui encontra-se tudo relacionado ao projeto.
 Inclui também READMEs para inicialização.
 
